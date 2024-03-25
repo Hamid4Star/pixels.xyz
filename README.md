@@ -1,1 +1,1 @@
-# pixels.xyz.github.io
+# pixels.xyz
